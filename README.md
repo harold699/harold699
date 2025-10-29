@@ -1,4 +1,4 @@
-# Hello, I'm Harold Steve Fotso
+# Hello, I'm simo fotso harold steve 
 <a href="https://www.linkedin.com/in/simo-simo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 I am a recent graduate with a strong interest in technology and a dedication to solving complex problems. My academic and practical experience in computer science led me to cybersecurity, where I focus on SOC operations, detection engineering and incident response.
@@ -6,6 +6,44 @@ I am a recent graduate with a strong interest in technology and a dedication to 
 ## Objective
 
 Transition into a Security Operations Center (SOC) role as a Tier 1 Analyst, building hands-on experience in SIEM deployment, network monitoring, detection engineering and security automation.
+
+## 🏆 Domains of Competence
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+<!-- Cadres de cyberdéfense -->
+<div style="flex: 1 1 300px; border: 1px solid #d1d5db; border-radius: 10px; padding: 15px; background-color: #f9fafb;">
+  <h3>🛡️ Cadres de cyberdéfense</h3>
+  <p>Découvrez les cadres et politiques qui établissent une bonne posture de sécurité, et comment les organisations les appliquent dans leurs stratégies défensives.</p>
+</div>
+
+<!-- Cyber Threat Intelligence -->
+<div style="flex: 1 1 300px; border: 1px solid #d1d5db; border-radius: 10px; padding: 15px; background-color: #f9fafb;">
+  <h3>🔍 Cyber Threat Intelligence</h3>
+  <p>Identifier et utiliser les connaissances en matière de sécurité pour atténuer et gérer les actions potentielles des adversaires.</p>
+</div>
+
+<!-- Network Security and Traffic Analysis -->
+<div style="flex: 1 1 300px; border: 1px solid #d1d5db; border-radius: 10px; padding: 15px; background-color: #f9fafb;">
+  <h3>🌐 Network Security & Traffic Analysis</h3>
+  <p>Repérer les anomalies réseau et analyser le trafic à l’aide d’outils et techniques reconnus dans l’industrie.</p>
+</div>
+
+<!-- Endpoint Security Monitoring -->
+<div style="flex: 1 1 300px; border: 1px solid #d1d5db; border-radius: 10px; padding: 15px; background-color: #f9fafb;">
+  <h3>💻 Endpoint Security Monitoring</h3>
+  <p>Surveiller l’activité des postes de travail, là où les adversaires passent le plus de temps à atteindre leurs objectifs.</p>
+</div>
+
+
+
+[![Cadres de cyberdéfense](https://img.shields.io/badge/Cyber-Defense-1f77b4?style=for-the-badge&logoColor=white)](#)
+[![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber-Threat_Intelligence-ff7f0e?style=for-the-badge&logoColor=white)](#)
+[![Network Security & Traffic Analysis](https://img.shields.io/badge/Network-Security-2ca02c?style=for-the-badge&logoColor=white)](#)
+[![Endpoint Security Monitoring](https://img.shields.io/badge/Endpoint-Monitoring-d62728?style=for-the-badge&logoColor=white)](#)
+
+</div>
+
 
 ## Skills
 
