@@ -49,7 +49,7 @@ Transition into a Security Operations Center (SOC) role as a Tier 1 Analyst, bui
 
 | Skill                                          | Associated Project |
 |------------------------------------------------|--------------------|
-| SIEM implementation and log analysis           | [Detection Lab](htttps://github.com/harold699/Wazuh-SIEM-Lab) |
+| Investigation SOC — Journaux de connexion ELK  | [Detection Lab ELK ](https://github.com/harold699/ItsyBitsy) |
 | Network traffic monitoring and attack detection| [Detection Lab](htttps://github.com/harold699/Snort-Detection-Lab) |
 | Security automation with Shuffle SOAR          | [SOC Automation Lab](htttps://github.com/harold699/SOC-Automation-Lab) |
 | Incident response planning and execution       | [SOC Incident Response](htttps://github.com/harold699/SOC-Incident-Response) |
@@ -98,6 +98,7 @@ Transition into a Security Operations Center (SOC) role as a Tier 1 Analyst, bui
 
 
 ## Projects
+- [Investigation SOC — Journaux de connexion](https://github.com/harold699/ItsyBitsy)
 
 
 
