@@ -49,7 +49,7 @@ Transition into a Security Operations Center (SOC) role as a Tier 1 Analyst, bui
 
 | Skill                                          | Associated Project |
 |------------------------------------------------|--------------------|
-| Investigation SOC — Journaux de connexion ELK  | [Detection Lab ELK ](https://github.com/harold699/ItsyBitsy) |
+| Investigation SOC — Journaux de connexion ELK | [Detection Lab ELK ](https://github.com/harold699/ItsyBitsy) |
 | Network traffic monitoring and attack detection| [Detection Lab](htttps://github.com/harold699/Snort-Detection-Lab) |
 | Security automation with Shuffle SOAR          | [SOC Automation Lab](htttps://github.com/harold699/SOC-Automation-Lab) |
 | Incident response planning and execution       | [SOC Incident Response](htttps://github.com/harold699/SOC-Incident-Response) |
@@ -96,9 +96,10 @@ Transition into a Security Operations Center (SOC) role as a Tier 1 Analyst, bui
 
 [![TryHackMe — OWASP Top 10 Badge](https://img.shields.io/badge/TryHackMe--OWASP_Top_10-e11d48?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/haroldnextel361/badges/owasp-10?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68276aa1289322a8d07b6949)
 
+### 🔍 Mes projets SOC / CTI
 
-## Projects
-- [Investigation SOC — Journaux de connexion](https://github.com/harold699/ItsyBitsy)
+- [🧠 ItsyBitsy — Investigation C2 via Pastebin](https://github.com/harold699/ItsyBitsy)
+  > Analyse réseau d’une communication C2 simulée (TryHackMe). Logs HTTP, KQL, indicateurs de compromission et corrélation utilisateur ↔ IP.
 
 
 
