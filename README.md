@@ -50,7 +50,7 @@ Transition into a Security Operations Center (SOC) role as a Tier 1 Analyst, bui
 | Skill                                          | Associated Project |
 |------------------------------------------------|--------------------|
 | Investigation SOC — Journaux de connexion ELK | [Detection Lab ELK ](https://github.com/harold699/ItsyBitsy) |
-| Network traffic monitoring and attack detection| [Detection Lab](htttps://github.com/harold699/Snort-Detection-Lab) |
+|Sysmon utiliser Sysmon pour surveiller et journaliser vos terminaux et environnements |  [investigation lab](https://github.com/harold699/sysmon_endpiont) |
 | Security automation with Shuffle SOAR          | [SOC Automation Lab](htttps://github.com/harold699/SOC-Automation-Lab) |
 | Incident response planning and execution       | [SOC Incident Response](htttps://github.com/harold699/SOC-Incident-Response) |
 | Case management with TheHive                   | [SOC Automation Lab](htttps://github.com/harold699/SOC-Automation-Lab) |
@@ -100,7 +100,7 @@ Transition into a Security Operations Center (SOC) role as a Tier 1 Analyst, bui
 
 - [🧠 ItsyBitsy — Investigation C2 via Pastebin](https://github.com/harold699/ItsyBitsy)
   > Analyse réseau d’une communication C2 simulée (TryHackMe). Logs HTTP, KQL, indicateurs de compromission et corrélation utilisateur ↔ IP.
-
+   Sysmon utiliser Sysmon pour surveiller et journaliser vos terminaux et environnements |  investigation lab (https://github.com/harold699/sysmon_endpiont) 
 
 
 ## Contact
